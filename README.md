@@ -1,2 +1,2 @@
 # Lee Barnett
-A site made to support my wife's tutoring business. 
+A site developed to support my wife's tutoring business. 
